@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>index</title>
+<!-- TemplateEndEditable -->
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body style="text-align: left; color: #744327; padding-top: 70px;">
+<div class="container">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light"> <a class="navbar-brand" href="#">Coffee Places</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+	  <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+	    <ul class="navbar-nav mr-auto">
+	      <li class="nav-item active"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
+	      <li class="nav-item"></li>
+			<li class="nav-item active"> <a class="nav-link" href="#">Origin of coffee&nbsp; <span class="sr-only">(current)</span></a> </li>
+	      <li class="nav-item"></li>
+			<li class="nav-item active"> <a class="nav-link" href="#">Recommended&nbsp;&nbsp; <span class="sr-only">(current)</span></a> </li>
+	      <li class="nav-item"></li>
+			<li class="nav-item active"> <a class="nav-link" href="#">Popular menu <span class="sr-only">(current)</span></a> </li>
+	      <li class="nav-item"></li>
+			<li class="nav-item active"> <a class="nav-link" href="contact us.html">Contact us <span class="sr-only">(current)</span></a> </li>
+	      <li class="nav-item"></li>
+	      <li class="nav-item dropdown">
+<div class="dropdown-menu" aria-labelledby="navbarDropdown1"> <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+	          <a class="dropdown-item" href="#">Something else here</a> </div>
+          </li>
+	      <li class="nav-item"> </li>
+        </ul>
+	    <form class="form-inline my-2 my-lg-0">
+	      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+	      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+    </div>
+  </nav>
+</div>
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap-4.4.1.js"></script>
+<div class="container">
+  <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel" style="background-color: grey">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+      <div class="carousel-item active"> <img class="d-block mx-auto" src="images/Carousel_Placeholder.png" alt="First slide">
+        <div class="carousel-caption">
+          <h5>First slide Heading</h5>
+          <p>First slide Caption</p>
+        </div>
+      </div>
+      <div class="carousel-item"> <img class="d-block mx-auto" src="images/Carousel_Placeholder.png" alt="Second slide">
+        <div class="carousel-caption">
+          <h5>Second slide Heading</h5>
+          <p>Second slide Caption</p>
+        </div>
+      </div>
+      <div class="carousel-item"> <img class="d-block mx-auto" src="images/Carousel_Placeholder.png" alt="Third slide">
+        <div class="carousel-caption">
+          <h5>Third slide Heading</h5>
+          <p>Third slide Caption</p>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+  <p>กาแฟ (Coffee) เป็นเครื่องดื่มที่ทำจากเมล็ดกาแฟคั่วซึ่งได้จากต้นกาแฟ นิยมดื่มร้อนๆ แต่สามารถดื่มแบบเย็นได้ด้ว บางครั้งนิยมใส่นมหรือครีมลงในกาแฟด้วย ในกาแฟหนึ่งถ้วยมีคาเฟอีนอยู่ประมาณ 80-140 มิลลิกรัม กาแฟเป็นเครื่องดื่มที่ได้รับความนิยมมากที่สุดในโลกชนิดหนึ่งเช่นเดียวกับชาและน้ำ นอกจากนี้ กาแฟยังเป็นผลผลิตทางการเกษตรที่มีการส่งออกมากเป็นอันดับที่หกของโลก</p>
+  <p>&nbsp;</p>
+</div>
+<div class="container">
+	<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-color: grey">
+	  <ol class="carousel-indicators">
+	    <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+	    <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+	    <li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
+      </ol>
+	  <div class="carousel-inner" role="listbox">
+	    <div class="carousel-item active"> <img class="d-block mx-auto" src="images/Carousel_Placeholder.png" alt="First slide">
+	      <div class="carousel-caption">
+	        <h5>First slide Heading</h5>
+	        <p>First slide Caption</p>
+          </div>
+        </div>
+	    <div class="carousel-item"> <img class="d-block mx-auto" src="images/Carousel_Placeholder.png" alt="Second slide">
+	      <div class="carousel-caption">
+	        <h5>Second slide Heading</h5>
+	        <p>Second slide Caption</p>
+          </div>
+        </div>
+	    <div class="carousel-item"> <img class="d-block mx-auto" src="images/Carousel_Placeholder.png" alt="Third slide">
+	      <div class="carousel-caption">
+	        <h5>Third slide Heading</h5>
+	        <p>Third slide Caption</p>
+          </div>
+        </div>
+      </div>
+	  <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
+	<p>ประวัติกาแฟ<br>
+              เชื่อกันว่ากาแฟถูกค้นพบครั้งแรกโดยเด็กเลี้ยงแพะชาวอาบิสซีเนีย (ประเทศเอธิโอเปียในปัจจุบัน) ชื่อคาลดี จากการสังเกตพบว่า แพะดูกระปรี้กระเปร่าขึ้นเมื่อกินผลไม้สีแดงของต้นไม้ต้นหนึ่ง ซึ่งก็คือต้นกาแฟนั่นเอง ในช่วงก่อนศตวรรษที่ 16 กาแฟถูกปลูกโดยชาวอาหรับเท่านั้น คำว่ากาแฟ เป็นคำที่มาจากคำว่า "เกาะหฺวะหฺ" ในภาษาอาหรับ แล้วเพี้ยนเป็น กาห์เวห์ ในภาษาตุรกี ก่อนที่จะกลายเป็น คอฟฟี ในภาษาอังกฤษ และกาแฟ ในภาษาไทย ชาวอาหรับหวงแหนพันธุ์กาแฟมาก จึงส่งออกเฉพาะเมล็ดกาแฟที่คั่วสุกแล้วเท่านั้น แต่ในที่สุดเมล็ดกาแฟก็ออกมาสู่โลกกว้าง โดยการลักลอบนำออกมาโดยชาวอินเดียที่ไปแสวงบุญที่เมกกะ และก็ได้แพร่ขยายไปยังชวา เนเธอร์แลนด์ และทั่วยุโรปในที่สุด สำหรับทวีปอเมริกานั้น ต้นกาแฟถูกนำไปอย่างยากลำบาก โดยทหารเรือฝรั่งเศสในต้นศตวรรษที่ 18 ในครั้งแรกนั้น มีต้นกาแฟที่เหลือรอดชีวิตบนเรือมาขึ้นฝั่งอเมริกาได้เพียง 1 ต้น และก็ได้แพร่ขยายเพิ่มขึ้น จนปัจจุบันดินแดนแห่งนี้ ได้กลายเป็นดินแดนที่ปลูกกาแฟมากที่สุดในโลก</p>
+</div>
+</body>
+</html>
